@@ -18,15 +18,15 @@ HOSTNAME = "github"
 
 FIELDS = [
     ("Now", "Software Engineer"),
-    ("Prev", "Fullstack Developer"),
-    ("Stack", "Next.js, TypeScript, Postgres"),
-    # Add a ("Highlights", "...") row here once you have one to feature.
+    ("Stack", "Next.js, TypeScript, Python, PostgreSQL"),
+    ("Interests", "AI/ML, Cybersecurity, OSINT"),
+    ("Projects", "Vibe Check, Opensourcerer, Mentory"),
 ]
 
 WIDTH = 490
 LINE_H = 30
 PAD_TOP = 56
-FONT_SIZE = 15
+FONT_SIZE = 14
 TITLE_FONT_SIZE = 16
 ACCENT = "#39d353"     # GitHub-green accent for keys
 FG = "#c9d1d9"          # value text
