@@ -3,8 +3,6 @@
 <h3><code>shendev27@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
-<br><br>
-
 <h3><code>shendev27@github ~ $ whoami</code></h3>
 <table>
   <tr>
